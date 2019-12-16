@@ -1,0 +1,6 @@
+#!/bin/bash
+# Java version switcher for Fedora
+# Tested on Fedora 30
+# just a script to be used as a command for lazy people tbh
+sudo alternatives --config java
+sudo alternatives --config javac

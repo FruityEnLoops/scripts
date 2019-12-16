@@ -1,0 +1,3 @@
+#!/bin/bash
+# REQUIRES PYTHON3, HEYBROCHECKLOG INSTALLED IN ~
+python3 ~/hey-bro-check-log/run.py $1

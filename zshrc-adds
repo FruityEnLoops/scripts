@@ -1,0 +1,8 @@
+# stuff I add to the default zshrc
+# not a lot tbh
+alias ijava="java -cp /usr/share/java/ap.jar:."
+alias ijavac="javac -cp /usr/share/java/ap.jar:."
+alias ll="ls -ah"
+alias flex="neofetch | lolcat ; read"
+alias yeet="git push"
+alias aaa="git add *"
